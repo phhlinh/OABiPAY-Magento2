@@ -1,4 +1,4 @@
-# Magento 2 OAB iPAY Internet Payment Gatewa
+# Magento 2 OAB iPAY Internet Payment Gateway
 Magento 2 OAB iPAY Internet Payment Gateway is an online payment solution that can be integrated with the Magento 2 eCommerce store. The gateway allows store owners from Oman and other regions to accept online payments from debit card users (debit cards in Oman).
 
 OAB (Oman Arab Bank) iPay payment service is a popular payment platform in Oman that enables Internet banking directly in your store, letting customers make payments securely.
